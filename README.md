@@ -28,7 +28,7 @@ Video | Title
 # Streamlit Library
 
 Turn data scripts into sharable web apps in minutes. All in Python.<br/>
-<a href="https://www.streamlit.io"target="_blank">streamlit.io</a>
+Website: <a href="https://www.streamlit.io" target="_blank">streamlit.io</a>
 
 ## Get started
 
