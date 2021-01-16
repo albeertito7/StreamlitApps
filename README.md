@@ -24,3 +24,12 @@ Video | Title
   <li>Deploy to Heroku</li>
   <li>Deploy to Streamlit Sharing</li>
 </ol>
+
+# Streamlit Library
+
+Turn data scripts into sharable web apps in minutes. All in Python.<br/>
+<a href="https://www.streamlit.io"target="_blank">streamlit.io</a>
+
+## Get started
+
+Run `pip install streamlit` and finally `streamlit hello`
