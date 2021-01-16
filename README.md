@@ -10,17 +10,17 @@ Video | Title
 
 # Apps
 
-<ul>
-  <li>1.  Simple Stock Price</li>
-  <li>2.  Simple Bioinformatics DNA</li>
-  <li>3.  EDA Basketball</li>
-  <li>4.  EDA Football Data</li>
-  <li>5.  EDA S&P500 Stock Price</li>
-  <li>6.  EDA Cryptocurrency</li>
-  <li>7.  Classification Iris</li>
-  <li>8.  Classification Penguins</li>
-  <li>9.  Regression Boston Housing Data</li>
-  <li>10. Regression Bioinformatics Solubility Data</li>
-  <li>11. Deploy to Heroku</li>
-  <li>12. Deploy to Streamlit Sharing</li>
-</ul>
+<ol>
+  <li>Simple Stock Price</li>
+  <li>Simple Bioinformatics DNA</li>
+  <li>EDA Basketball</li>
+  <li>EDA Football Data</li>
+  <li>EDA S&P500 Stock Price</li>
+  <li>EDA Cryptocurrency</li>
+  <li>Classification Iris</li>
+  <li>Classification Penguins</li>
+  <li>Regression Boston Housing Data</li>
+  <li>Regression Bioinformatics Solubility Data</li>
+  <li>Deploy to Heroku</li>
+  <li>Deploy to Streamlit Sharing</li>
+</ol>
